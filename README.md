@@ -3,11 +3,11 @@ As a theoretical chemist, I use multiple theoretical methods, both quantum macha
 
 ## Features
 
-  *Selective molecular simulation softwares, dispersed scripts, websites and related journals.
-  *Intellectual management and upating.
-  *Alternative software suggestion.
-  *Powered by Django with Python.
-  *Flexible Tag support.
+ *Selective molecular simulation softwares, dispersed scripts, websites and related journals.
+ *Intellectual management and upating.
+ *Alternative software suggestion.
+ *Powered by Django with Python.
+ *Flexible Tag support.
 
 ## TODO Functions
 
