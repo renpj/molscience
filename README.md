@@ -12,7 +12,7 @@ As a theoretical chemist, I use multiple theoretical methods, both quantum macha
 ## TODO Functions
 
   * Short Term
-    * Software citation
+    * use django_comments_xtd to styling comments
     * User registeration
     * Discuz
     * Card view.
@@ -22,3 +22,6 @@ As a theoretical chemist, I use multiple theoretical methods, both quantum macha
   *  Long Term
     * Add wiki-like function: history, auto internal link, auto wiki link;
     * Tag or category synopsis.
+    * Software citation
+    * use Semantic-UI instead of Bootstrap and Foundation UI
+    * imitate djangosnippets.org
