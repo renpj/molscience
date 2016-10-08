@@ -14,7 +14,7 @@ As a theoretical chemist, I use multiple theoretical methods, both quantum macha
   * Short Term
     * use django_comments_xtd to styling comments
     * User registeration
-    * Discuz
+    * Disquz
     * Card view.
     * More items
     * Researchers.
