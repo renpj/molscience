@@ -12,12 +12,16 @@ As a theoretical chemist, I use multiple theoretical methods, both quantum macha
 ## TODO Functions
 
   * Short Term
-    * use django_comments_xtd to styling comments
-    * User registeration
-    * Disquz
-    * Card view.
-    * More items
-    * Researchers.
+    * Community support
+      * User registeration, verify
+      * Item varify
+      * django_comments_xtd to styling comments
+      * Disquz
+    * Reading support
+      * Card view
+      * rss feed integrate
+      * rss fedd verify
+      * keyword filter
 
   *  Long Term
     * Add wiki-like function: history, auto internal link, auto wiki link;
