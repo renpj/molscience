@@ -17,6 +17,7 @@ As a theoretical chemist, I use multiple theoretical methods, both quantum macha
       * Item varify
       * django_comments_xtd to styling comments
       * Disquz
+      * ResearchGate api
     * Reading support
       * Card view
       * rss feed integrate
