@@ -13,7 +13,7 @@ As a theoretical chemist, I use multiple theoretical methods, both quantum macha
 
   * Short Term
     * Community support
-      * User registeration, verify
+      * User registeration, verify 
       * Item varify
       * django_comments_xtd to styling comments
       * Disquz
